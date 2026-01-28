@@ -1,4 +1,3 @@
 # Password-Generator
-Simple password generator written in python
-Need python installed.
+Simple password generator written in python.
 Originally written in 3.12.6 but should work on most versions
