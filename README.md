@@ -1,4 +1,5 @@
 # Password-Generator
-Simple password generator written in python.
-Originally written in 3.12.6 but should work on most versions
+- Simple password generator written in python.
+- Should work on most python versions
+
 ![Description](GUI.png)
